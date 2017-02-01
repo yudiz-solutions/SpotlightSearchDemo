@@ -1,4 +1,4 @@
-# SpotlightSearchDemo
+# Spotlight SearchDemo
 App data indexed in spotlight search
 
 With iOS 9, Apple bring many new things for iOS developer. Let’s talk about spotlight search.In iOS 9 new frame work added called “Core Spotlight”  which is used to add our app information searchable in spotlight search.
